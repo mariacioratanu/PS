@@ -4,3 +4,5 @@ poisson_distribution <- function(lambda, n) {
   barplot(prob, main=paste("Distributie Poisson cu lambda=",lambda), 
           xlab="x", ylab="Probabilitate", col="blue")
 }
+
+# poisson_distribution(3, 10)
