@@ -163,6 +163,7 @@ if (!is.null(result)) {
 
 #Rezultatul obtinut: 
 #Al 5 -lea element din A: 5
+#(functioneaza, uneori este nevoie de mai multe rulari totusi)
 
 
 
